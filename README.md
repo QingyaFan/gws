@@ -1,0 +1,2 @@
+# gws
+golang web scaffolding
